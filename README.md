@@ -9,3 +9,5 @@ Hello, my name is Cody DeLozier and I am currently a Senior at Chico State worki
 
 ## UX Journal
 
+[This is my first journal entry](journal-01)
+

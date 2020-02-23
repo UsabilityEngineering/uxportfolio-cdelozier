@@ -1,5 +1,5 @@
 # Setting Up Yubico Authentication Key - Yubikey
-by Cody DeLozier on February 22nd, 2020
+by Cody DeLozier on February 23nd, 2020
 
 My initial goal before reading anything on the Yubikey was to set it up to better protect my Google account specifically.
 For those unaware, multifactor authentication (MFA) is a secure way to protect your online accounts such as Dropbox, personal bank login etc.

@@ -22,8 +22,8 @@ After selecting my key, displayed was a list of the services that support this k
 I was able to quickly search for Google Inc. and was then sent to Google's help page to enable 2-Step Verification (or MFA).
 I selected the text tutorial instead of the video tutorial and followed the on-screen instructions. I entered my password, inserted the key 
 into my computer, tapped the key and the setup was complete! All in all, the user experience for this setup was **efficient** and **satisfying**.
-This experience was efficient in that it did not contain unnecessary information or unneeded steps to complete the setup. I was able to accomplish my
+This experience was efficient in that it did not contain unnecessary information to complete the setup and was straight to the point. I was able to accomplish my
 goal in less than 10 minutes. This experience was also satisfying due to the well-organized layout and the on-screen feedback received after tapping the Yubikey. 
 The only noticeable weakness was that it was not clear whether my key supported mobile login (NFC) or not. Through further research outside of the tutorial, 
-I was able to determine my Yubikey would not work for mobile login. This could easily be addressed/fixed by adding a simple icon of the devices supported next 
+I was able to determine my Yubikey would not work for mobile login due to a lack fo NFC functionality (Near Field Communication). This could easily be addressed/fixed by adding a simple icon of the supported devices next 
 to each key (laptop, desktop, smartphone etc.) One major strength was the provided option to select either a video tutorial or text tutorial depending on personal preference.

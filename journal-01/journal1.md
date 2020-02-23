@@ -8,16 +8,16 @@ Yubico created a unique MFA method that requires the user to enter their passwor
 
 I started out by removing the key from the packaging and navigating to https://www.yubico.com/start as seen on the back of the packaging.
 
-![](journal-01/Yubikey1.jpg)
-![](journal-01/Yubikey2.jpg)
+![](Yubikey1.jpg)
+![](Yubikey2.jpg)
 
 After navigating to the site, I was prompted to select my Yubikey (see below):
 
-![](journal-01/3.JPG)
+![](3.JPG)
 
 After selecting my key, displayed was a list of the services that support this key.
 
-![](journal-01/4.JPG)
+![](4.JPG)
 
 I was able to quickly search for Google Inc. and was then sent to Google's help page to enable 2-Step Verification (or MFA).
 I selected the text tutorial instead of the video tutorial and followed the on-screen instructions. I entered my password, inserted the key 

@@ -9,7 +9,7 @@ by Cody DeLozier on April 12th, 2020
 
 ![](Toaster3.jpg)
 
-   After taking a quick inspection of the oven knobs and light indicator, everything seemed fairly straight forward. I started by turning the lower knob to the icon with the picture of a half toasted piece of bread as this is my usual preference. Fortunately for me, the upper knob was already on the "toast" option, making the toaster oven start immediately. Within seconds I watched the coils get red hot and begin toasting my bread with the useful feedback of a ticking sound indicating that the oven is currently running and running on a timer. I patiently waited for the job to complete and once completed I received feedback in the form of a bell indicating that my toast is now done. After pulling out my toast I was happy to discover it was toasted as expected.
+   After taking a quick inspection of the oven knobs and light indicator, everything seemed fairly straight forward. I started by turning the lower knob to the icon with the picture of a half toasted piece of bread as this is my usual preference. Fortunately for me, the upper knob was already on the "toast" option, making the toaster oven start immediately. Within seconds I watched the coils get red hot and begin toasting my bread with the useful feedback of a ticking sound indicating that the oven is currently running and running on a timer. I patiently waited for the job to complete and once completed, I received feedback in the form of a bell indicating that my toast is now done. After pulling out my toast I was happy to discover it was toasted as expected.
 
 ![](Toaster1.jpg)
 

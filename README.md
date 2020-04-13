@@ -5,7 +5,7 @@
 Hello, my name is Cody DeLozier and I am currently a Senior at Chico State working to get my Bachelors in Computer Information Systems. I picked this class because user interfaces have always interested me.
 
 ## UX Team Project
-[Full phase 1 report](https://usabilityengineering.github.io/Fierce/)
+[Project 1](https://usabilityengineering.github.io/Fierce/)
 
 ## UX Journal
 

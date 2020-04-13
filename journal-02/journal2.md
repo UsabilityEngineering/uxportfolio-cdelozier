@@ -5,7 +5,7 @@ by Cody DeLozier on April 12th, 2020
 
 ![](Toaster2.jpg)
 
-   I started by lifting the glass using the black handle as shown in the picture below. **My first thought**: why is this handle on the side of the glass vertically and not at the bottom of the glass horizontally for better leverage? Ignoring my retorical question, I continued to lift the glass until I had reached it's max open height. I proceeded to remove the aluminum tray and place my bread directly on the metal rack itself. I closed the glass after placing my bread in the center of the rack.
+   I started by lifting the glass using the black handle as shown in the picture below. **My first thought**: why is this handle on the side of the glass vertically and not at the bottom of the glass horizontally for better leverage? Ignoring my retorical question, I continued to lift the glass upwards until I had reached it's max open height. I proceeded to remove the aluminum tray and place my bread directly on the metal rack itself. I closed the glass after placing my bread in the center of the rack.
 
 ![](Toaster3.jpg)
 

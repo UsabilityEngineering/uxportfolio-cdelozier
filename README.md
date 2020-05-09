@@ -13,3 +13,4 @@ Hello, my name is Cody DeLozier and I am currently a Senior at Chico State worki
 
 [Journal Entry #2](journal-02/journal2.md)
 
+[Journal Entry #3](journal-03/journal3.md)

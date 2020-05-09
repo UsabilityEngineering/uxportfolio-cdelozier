@@ -3,16 +3,18 @@ by Cody DeLozier on May 9th, 2020
 
    p1
 
-![](Toaster2.jpg)
+![](Remote1.jpg)
 
    p2
 
-![](Toaster3.jpg)
+![](Remote2.jpg)
 
    p3
 
-![](Toaster1.jpg)
+![](Remote3.jpg)
 
    p4
+
+![](Remote4.jpg)
 
    p5 

@@ -10,7 +10,7 @@ by Cody DeLozier on May 9th, 2020
 
 ![](remote2.jpg)
 
-   Below the touch screen are two touch sensitive “Activities” and “Devices” buttons. The Activities button takes you to the Activities page as expected and the Devices button pulls up a menu containing all available devices connected to your smart TV. I was satisfied to discover these buttons provide feedback when pushed in the form of vibration.
+   Below the touch screen are two touch sensitive “Activities” and “Devices” buttons. The Activities button takes you to the Activities page as expected and the Devices button pulls up a menu containing all available devices connected to your smart TV. I was satisfied to discover these buttons provide **feedback** when pushed in the form of vibration.
 
 ![](remote3.jpg)
 

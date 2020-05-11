@@ -14,7 +14,7 @@ by Cody DeLozier on May 9th, 2020
 
 ![](remote3.jpg)
 
-  When attempting to navigate through Netflix, Direct TV and Hulu I found myself only using a few of the buttons on the remote (OK, Volume, Ch|Pg, Menu, Back and Exit). Most of these buttons are very straight forward and can be found on almost any TV remote. That being said, there are over 10 buttons on this remote that I did not need to use or required me reading the manual in order to learn. 
+  When attempting to navigate through Netflix, Direct TV and Hulu I found myself only using a few of the buttons on the remote (OK, Volume, Ch/Pg, Menu, Back and Exit). Most of these buttons are very straight forward and can be found on almost any TV remote. That being said, there are over 10 buttons on this remote that I did not need to use or required me reading the manual in order to learn. 
 
 ![](remote4.jpg)
 
